@@ -12,7 +12,7 @@
 
 # 👨‍💻 Security Professional
 
-## 🔐 Offensive | 🛡️ Defensive | ☁️ Cloud Security Arshitect
+## 🔐 Offensive | 🛡️ Defensive | ☁️ Cloud Security Expert
 
 ---
 
@@ -22,24 +22,23 @@
 ┌──(root💀kali)-[~/profile]
 └─# cat introduction.txt
 
-「 Saya adalah seorang profesional keamanan siber dengan spesialisasi dalam penetration testing, 
-  security incident response, dan cloud security architecture. Dengan pendekatan yang 
-  komprehensif terhadap keamanan, saya mengkombinasikan kemampuan menyerang dan 
-  mempertahankan sistem untuk mengidentifikasi dan memitigasi kerentanan sebelum 
-  menjadi ancaman yang nyata. 」
+「 I am a cybersecurity professional specializing in penetration testing, 
+  security incident response, and cloud security architecture. With a comprehensive 
+  approach to security, I combine offensive and defensive capabilities to identify 
+  and mitigate vulnerabilities before they become real threats. 」
 ```
 
 </div>
 
 <p align="center">
-  <em>"Security isn't just a feature; it's a mindset that harus tertanam dalam setiap aspek pengembangan dan operasi."</em>
+  <em>"Security isn't just a feature; it's a mindset that must be embedded in every aspect of development and operations."</em>
 </p>
 
 ---
 
 ## 🧰 Technical Arsenal
 
-### 💻 Bahasa Pemrograman & Scripting
+### 💻 Programming & Scripting Languages
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -172,7 +171,7 @@
 
 ---
 
-## 📌 Repositori Unggulan
+## 📌 Featured Repositories
 
 <div align="center">
   <a href="https://github.com/YourUsername/cloud-security-framework">
@@ -203,7 +202,7 @@
 
 ---
 
-## 🏆 Sertifikasi & Achievements
+## 🏆 Certifications & Achievements
 
 <div align="center">
   <table>
@@ -264,7 +263,7 @@
 
 ---
 
-## 📫 Kontak Profesional
+## 📫 Professional Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -284,8 +283,8 @@
 
 ```bash
 ┌──(root💀kali)-[~/profile]
-└─# cd /home/security && echo "Terima kasih telah mengunjungi profil saya" && exit
-Terima kasih telah mengunjungi profil saya
+└─# cd /home/security && echo "Thanks for visiting my profile" && exit
+Thanks for visiting my profile
 ```
 
 </div>
