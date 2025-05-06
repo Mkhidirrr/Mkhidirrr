@@ -257,7 +257,7 @@
 ## 💯 HackTheBox & TryHackMe Stats
 
 <div align="center">
-  <img src="http://www.hackthebox.eu/badge/image/1FF3B95B12" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/HTB_Academy-Active-green?logo=hackthebox)](https://academy.hackthebox.com/profile/Mochamadkhidir" alt="Hack The Box" />
   <img src="https://tryhackme-badges.s3.amazonaws.com/mochamadkhidir.png" alt="TryHackMe" />
 </div>
 
