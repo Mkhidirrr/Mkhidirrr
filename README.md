@@ -1,6 +1,6 @@
 # 👨‍💻 Security Professional
 
-## 🔐 Offensive | 🛡️ Defensive | ☁️ Cloud Security Expert
+## 🔐 Offensive | 🛡️ Defensive | ☁️ Cloud Security Arshitect
 
 ---
 
