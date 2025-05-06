@@ -258,7 +258,7 @@
 
 <div align="center">
   <img src="http://www.hackthebox.eu/badge/image/YOUR_HTB_ID" alt="Hack The Box" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mochamadkhidir.png" alt="TryHackMe" />
 </div>
 
 ---
