@@ -40,46 +40,12 @@
 
 ### 💻 Programming & Scripting Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
-
-### 🔍 Offensive Security Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6347?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-5C2D91?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cobalt%20Strike-0078D7?style=for-the-badge&logo=cobaltstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Hydra-2C8EBB?style=for-the-badge&logo=hydra&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Aircrack--ng-8E24AA?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Parrot%20OS-45A29E?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Empire-7D4698?style=for-the-badge&logo=empire&logoColor=white" />
-</p>
-
-<details>
-  <summary><b>🪓 Expanded Red Team Arsenal</b></summary>
-  
-  - **Reconnaissance**: Shodan, theHarvester, Recon-ng, Maltego, SpiderFoot, OSINT Framework
-  - **Vulnerability Scanning**: Acunetix, Nexpose, OpenVAS, Qualys, Nessus
-  - **Exploitation**: SQLmap, BeEF, Covenant, Social Engineer Toolkit (SET), PowerSploit
-  - **Post Exploitation**: Mimikatz, BloodHound, CrackMapExec, Covenant, Empire
-  - **Web App Testing**: Dirb, Nikto, WPScan, SQLmap, XSSHunter, Commix
-  - **Mobile Testing**: MobSF, Drozer, APKTool, Frida, Objection
-  - **Wireless Testing**: Kismet, Wifite, Fluxion, Fern Wifi Cracker
-  - **Reverse Engineering**: Ghidra, IDA Pro, Radare2, Binary Ninja, GDB
-</details>
 
 ### 🛡️ Defensive Security Tools
 <p align="center">
