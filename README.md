@@ -3,16 +3,16 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&width=600&lines=Security+Professional;Offensive+%7C+Defensive+%7C+Cloud+Expert;Red+Team+Operator;Blue+Team+Defender;Security+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&width=600&lines=Cloud+Security+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5d51b1c6/images/terminal.gif" width="400">
 </p>
 
-# 👨‍💻 Security Professional
+# 👨‍💻 Mochamad Khidir
 
-## 🔐 Offensive | 🛡️ Defensive | ☁️ Cloud Security Arshitect 
+## 🛡️ Defensive | ☁️ Cloud Security Arshitect 
 
 ---
 
