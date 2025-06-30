@@ -22,12 +22,11 @@
 ┌──(root💀kali)-[~/profile]
 └─# cat introduction.txt
 
-「 I am a cybersecurity professional specializing in security incident response,
-   and cloud security architecture. With a comprehensive approach to security
-   I combine offensive and defensive capabilities to identify and mitigate
-   vulnerabilities before they become real threats. 」
+「 I am a cybersecurity professional specializing in Incident Response and Cloud Security Architecture.
+   I combine offensive and defensive capabilities to identify, analyze, and mitigate vulnerabilities
+   before they turn into real-world threats. My approach is proactive, strategic, and rooted in
+   technical depth to secure modern infrastructure. 」
 ```
-
 </div>
 
 <p align="center">
