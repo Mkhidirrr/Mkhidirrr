@@ -10,19 +10,11 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-```bash
-┌──(cloud-sec㉿engineer)-[~]
-└─$ cat profile.txt
-
 Hi! I'm a Cloud Security Engineer passionate about securing cloud infrastructure
 and implementing security-as-code practices. I specialize in building automated,
 secure, and scalable cloud environments across AWS, Azure, and GCP.
 
 My focus: Proactive security, infrastructure automation, and DevSecOps integration.
-```
-</div>
 
 ---
 
