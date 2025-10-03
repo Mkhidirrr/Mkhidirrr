@@ -221,11 +221,7 @@
 
 ## 💯 TryHackMe Stats
 
-<div align="center">
-  <a href="https://tryhackme.com/p/mochamadkhidir">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mochamadkhidir.png" alt="TryHackMe" />
-  </a>
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4532906" style='border:none;'></iframe>
 
 ---
 
